@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+img {
+  height: 160px;
+  width: 160px;
+  border-radius: 200px;
+}
+.user {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
